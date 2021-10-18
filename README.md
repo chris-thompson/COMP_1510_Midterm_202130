@@ -1,13 +1,16 @@
 # COMP_1510_Midterm_202130
 
+## Instructions:
+Open each file and follow the instructions.
+
 ## Your name:
-George Rozitis
+NAME
 
 ## Your student number:
-A01253802
+STUDENT NUMBER
 
 ## Your GitHub account:
-LinnyPurple
+GITHUB ID
 
 ## Any important comments you'd like to make about your work:
-Replace this line with any comments you want to share
+GOOD LUCK!
