@@ -12,7 +12,6 @@ The function calculates and returns the sum of all the multiples of 3 or 5
 strictly below upper_bound, i.e., in the range (0, upper_bound).
 
 You must provide a full docstring for this function including all pre- and post-conditions.
-
 You must create two useful doctests for this function.
 No main function is required.
 """

@@ -12,5 +12,5 @@ Ensure you format the sum as currency.
 
 Remember. I'm asking you for a program, not a single function.
 
-IMPORTANT: Ensure nothing is executed when I import this module.
+IMPORTANT: Ensure nothing is executed when I *import* this module.
 """

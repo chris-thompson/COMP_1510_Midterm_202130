@@ -1,9 +1,13 @@
 """
-Implement an annotated function called is_palindrome.
+Implement a  function called is_palindrome.
+
 This function accepts a single parameter, a non-empty string.
+
 This function returns True if the string is a palindrome.
 If the string is not a palindrome, the function must return False.
+
 This function is case-sensitive.
+
 A palindrome is a word that is spelled the same when reversed.
 
 Some palindromes are:
